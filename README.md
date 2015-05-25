@@ -1,0 +1,2 @@
+# gostmyconfig
+my gost config
